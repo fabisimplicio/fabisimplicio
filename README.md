@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @fabisimplicio
+👋 Olá, eu me chamo Fabiana (Fabi).
+👩‍💻 Graduanda em Ciência da Computação.
+☕︎ Aprendendo Java.
