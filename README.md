@@ -1,3 +1,3 @@
 - 👋 Olá, eu me chamo Fabiana (Fabi).
-- 👩‍💻 Graduanda em Ciência da Computação.
+- 👩‍💻 Graduanda em Ciência da Computação - UFCG
 - ☕︎ Aprendendo Java.
