@@ -4,4 +4,10 @@
 - I'm interested in Software Engineering and Machine Learning, especially Natural Language Processing.
 - Currently, I'm learning about front-end development.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabisimplicio&theme=jolly)"
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabisimplicio&theme=jolly">
+  <img height="180" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabisimplicio&theme=jolly">
+  <br>
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabisimplicio&theme=jolly"/>
+</div>
