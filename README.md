@@ -1,5 +1,5 @@
 ##### Hi there! 🙋🏽‍♀️
-👩🏽‍💻 About Me:
+About me:
 - 🎓 Computer Science student at the Federal University of Campina Grande
 - 💻 Software Developer at LACINA @ UFCG
 
