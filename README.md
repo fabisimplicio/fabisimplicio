@@ -1,7 +1,7 @@
 ##### Hi there! 🙋🏽‍♀️
 About me:
 - 🎓 Computer Science student at the Federal University of Campina Grande
-- 💻 Software Developer at LACINA @ UFCG
+- 💻 Researcher and Software Developer at LACINA @ UFCG
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabisimplicio&theme=zenburn" height="160" />
