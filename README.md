@@ -1,4 +1,4 @@
-##### Hi there! 🙋🏽‍♀️
+#### Hi there! 🙋🏽‍♀️
 About me:
 - 🎓 Computer Science student at UFCG
 - 💻 Researcher and Software Developer at LACINA
